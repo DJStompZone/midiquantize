@@ -9,6 +9,21 @@ Because sloppy timing is charming until it isn't. This snaps note on/off (and op
 keeps everything else intact, and either forces a single tempo (default: 102 BPM) or preserves the original tempo map.
 Grid math is done in ticks so it behaves consistently regardless of the source tempo(s).
 
+## Getting Started
+
+Clone the repo
+
+```sh
+git clone https://github.com/DJStompZone/midiquantize/
+cd $_
+```
+
+Install with pip
+
+```sh
+pip install .
+```
+
 ## Usage
 
 ```sh
