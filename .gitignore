@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / compiled files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+.eggs/
+
+# Environments
+.venv/
+venv/
+env/
+*.env
+.direnv/
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.bak
+*.swo
+
+# Project specific files
+build/
+dist/
+.mypy_cache/
+.pytest_cache/
+htmlcov/
+.coverage
+.ruff_cache/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Poetry specific
+# Poetry's lock file should typically be committed to ensure dependency consistency
+# poetry.lock 
+
+# Documentation
+_build/
